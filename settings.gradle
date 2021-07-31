@@ -1,0 +1,4 @@
+rootProject.name = 'redes'
+include 'client'
+include 'server'
+
